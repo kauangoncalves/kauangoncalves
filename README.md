@@ -1,11 +1,9 @@
 # sobre mim
 
-- 👋 Hi, I’m @kauangoncalves
+- 👋 ola,eu sou @kauangoncalves
 - :+1:meu email de contato é kauan.goncalves.andrade@gmail.com
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 eu estou interessado em jogos e progamação
+
 
 <!---
 
